@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
       Crypto trading bots.
 - 📫 How to reach me ...
-      Matt.Raper@MaevicIT.comk
+      Matt.Raper@MaevicIT.com
 
 <!---
 MaevicIT/MaevicIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
